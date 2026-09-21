@@ -1,0 +1,8 @@
+,dtype,missing,unique,unknown_token
+CustomerID,int64,0,200,0
+Gender,object,0,2,0
+Age,int64,0,51,0
+Education,object,0,7,26
+Marital Status,object,0,4,15
+Annual Income (k$),int64,0,64,0
+Spending Score (1-100),int64,0,84,0

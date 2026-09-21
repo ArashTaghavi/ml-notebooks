@@ -1,0 +1,37 @@
+{
+  "seed": 42,
+  "python": "3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "versions": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "openpyxl": "3.1.5",
+    "matplotlib": "3.11.2",
+    "seaborn": "0.13.2",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0",
+    "ipykernel": "7.3.0",
+    "threadpoolctl": "3.6.0",
+    "joblib": "1.6.0"
+  },
+  "source": "C:\\Users\\Taghavi\\Desktop\\Documents\\Documents\\ML-Projects\\dataset.xlsx",
+  "sha256": "ad3af9555a4499bac64031eb8980d4f389c4a94dcddbc6976f5915d6879c36a3",
+  "total_configurations": 1407,
+  "eligible_configurations": 796,
+  "stability_refits": 760,
+  "winner_ids": {
+    "all_features": 954,
+    "behavior": 36,
+    "behavior_age": 660
+  },
+  "null_benchmark": {
+    "observed_best_kmeans_silhouette": 0.5546571631111091,
+    "null_mean": 0.40713590942324795,
+    "null_p95": 0.4260127874452054,
+    "monte_carlo_p": 0.01,
+    "permutations": 99
+  },
+  "demographic_removal_ari": 1.0
+}

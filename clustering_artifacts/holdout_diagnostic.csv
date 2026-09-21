@@ -1,0 +1,7 @@
+scope,family,params,train_silhouette,holdout_silhouette,holdout_clusters,holdout_min_size
+behavior,KMeans,"{""n_clusters"": 6}",0.5677229385189752,0.4735244140682784,6,1
+behavior,GMM,"{""n_components"": 6, ""covariance_type"": ""tied""}",0.5710515129544096,0.4837859959876765,6,1
+behavior_age,KMeans,"{""n_clusters"": 9}",0.42443122673466616,0.2939144084461685,9,1
+behavior_age,GMM,"{""n_components"": 9, ""covariance_type"": ""tied""}",0.424773808431555,0.37186728145992964,8,2
+all_features,KMeans,"{""n_clusters"": 5}",0.35612199539439343,0.31904294971118546,5,4
+all_features,GMM,"{""n_components"": 4, ""covariance_type"": ""spherical""}",0.35565891876691597,0.30444075689542893,4,10
